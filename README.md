@@ -1,4 +1,3 @@
-<base target ='_blank'>
 # Creating Functionality for Pre-Designed To Do List App
 ## [Patika.dev](https://app.patika.dev) React Course Second Homework
 ---
